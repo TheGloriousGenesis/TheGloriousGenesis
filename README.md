@@ -7,7 +7,8 @@
 
 
 
-Number page visits! ![Visitor Count](https://profile-counter.glitch.me/TheGloriousGenesis/count.svg)
+# Number page visits
+![Visitor Count](https://profile-counter.glitch.me/TheGloriousGenesis/count.svg)
 <!--
 **TheGloriousGenesis/TheGloriousGenesis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
